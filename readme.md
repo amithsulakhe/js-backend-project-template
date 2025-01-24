@@ -13,6 +13,9 @@ npx husky init
 npm i typescript -D
 npm i -D @types/node
 npm i ts-node -D
+
+
+npm i @commitlint/cli @commitlint/config-conventional -D
 ```
 
 ## Husky Configuration
